@@ -68,7 +68,7 @@ llllllllllllll  lllllllllllllllllll   WM Theme: Custom
 ![](https://github-readme-stats.vercel.app/api?username=detjonmataj&theme=onedark&count_private=true&show_icons=true)
 ---
 ### Contact 
-[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)]()
+[![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/detjonmataj/)
 ---
 <!--
 **detjonmataj/detjonmataj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
