@@ -21,7 +21,7 @@ llllllllllllll  lllllllllllllllllll   OS: Windows 10 Pro x86_64
 llllllllllllll  lllllllllllllllllll   Terminal: Windows Terminal
 llllllllllllll  lllllllllllllllllll   Kernel: 10.0.19044
 llllllllllllll  lllllllllllllllllll   Uptime: 24/7
-llllllllllllll  lllllllllllllllllll   Packages: 2 (scoop)
+llllllllllllll  lllllllllllllllllll   Packages: 2 (scoop), 210 (winget)
                                       
 llllllllllllll  lllllllllllllllllll   Shell: bash 4.4.23
 llllllllllllll  lllllllllllllllllll   Resolution: 1920x1080
@@ -48,7 +48,7 @@ llllllllllllll  lllllllllllllllllll   WM Theme: Custom
       ..'''.            0Xxoc:,.  ...              OS: Kali GNU/Linux Rolling x86_64
   ....                ,ONkc;,;cokOdc',.            Kernel: 5.14.0-kali4-amd64
  .                   OMo           ':ddo.          Uptime: 24/7
-                    dMc               :OO;         Packages: 3452 (dpkg)
+                    dMc               :OO;         Packages: 3452 (dpkg), 7 (snap)
                     0M.                 .:o.       Shell: zsh 5.8
                     ;Wd                            Resolution: 1920x950
                      ;XO,                          DE: Xfce 4.16
