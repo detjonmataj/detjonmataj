@@ -45,16 +45,16 @@ llllllllllllll  lllllllllllllllllll   WM Theme: Custom
           ......''';lxO.                                                      
 .....''''..........,:ld;                           detjon@kali
            .';;;:::;,,.x,                          ----------- 
-      ..'''.            0Xxoc:,.  ...              OS: Kali GNU/Linux Rolling x86_64                                     
-  ....                ,ONkc;,;cokOdc',.            Kernel: 5.14.0-kali4-amd64                                        
- .                   OMo           ':ddo.          Uptime: 24/7                                             
-                    dMc               :OO;         Packages: 3452 (dpkg)                                      
-                    0M.                 .:o.       Shell: zsh 5.8                                                
-                    ;Wd                            Resolution: 1920x950                                                 
-                     ;XO,                          DE: Xfce 4.16                                      
-                       ,d0Odlc;,..                 WM: Xfwm4                               
-                           ..',;:cdOOd::,.         WM Theme: Kali-Dark    
-                                    .:d;.':;.      Theme: Kali-Dark [GTK2/3]          
+      ..'''.            0Xxoc:,.  ...              OS: Kali GNU/Linux Rolling x86_64
+  ....                ,ONkc;,;cokOdc',.            Kernel: 5.14.0-kali4-amd64
+ .                   OMo           ':ddo.          Uptime: 24/7
+                    dMc               :OO;         Packages: 3452 (dpkg)
+                    0M.                 .:o.       Shell: zsh 5.8
+                    ;Wd                            Resolution: 1920x950
+                     ;XO,                          DE: Xfce 4.16
+                       ,d0Odlc;,..                 WM: Xfwm4
+                           ..',;:cdOOd::,.         WM Theme: Kali-Dark
+                                    .:d;.':;.      Theme: Kali-Dark [GTK2/3]
                                        'd,  .'     Icons: Flat-Remix-Blue-Dark [GTK2/3]
                                          ;l   ..   Terminal: qterminal
                                           .o       Terminal Font: FiraCode 10
