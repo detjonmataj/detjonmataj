@@ -65,7 +65,8 @@
 
 ---
 # GitHub stats
-![](https://github-readme-stats.vercel.app/api?username=detjonmataj&theme=tokyonight&count_private=true&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=detjonmataj&theme=tokyonight&count_private=true&show_icons=true)\
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=detjonmataj&layout=compact&theme=tokyonight&count_private=true&show_icons=true)
 ---
 ### Contact 
 [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/detjonmataj/)
