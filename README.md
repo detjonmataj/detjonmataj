@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Detjon
 - 💻 I'm currently studying Computer Engineering (BEng) at Epoka University
 - 🌱 I’m currently learning [OOP concepts in Java](https://www.amazon.co.uk/Introduction-Programming-Structures-Comprehensive-Version/dp/1292221879/), [Computer Organization](https://www.amazon.co.uk/Essentials-Computer-Organization-Architecture-Linda/dp/1284045617/), Electrical & Electronic Circuits \[[1](https://www.amazon.com/Fundamentals-Electric-Circuits-Charles-Alexander/dp/1260226409), [2](https://www.amazon.com/Microelectronic-Circuits-Electrical-Computer-Engineering/dp/0190853468)\], TypeScript, React.JS, RegEX, Bash Scripting, [Privilege Escalation Techniques](https://read.amazon.com/kp/embed?asin=B09CQ664SX), [Practical Linux Forensics: A Guide for Digital Investigators](https://www.amazon.com/Practical-Linux-Forensics-Digital-Investigators-ebook-dp-B096Z4CRC8/dp/B096Z4CRC8/ref=mt_other?_encoding=UTF8&me=&qid=&asin=B096Z4CRC8&revisionId=fa4c1dcf&format=1&depth=1), [Hacking APIs: Breaking Web Application Programming Interfaces](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443) etc
-- 👀 I’m interested in various field of IT, DevSec, Computer Networking, IoT, Stegano and Crypto Graphy, various vulnerabilities and exploits, unix etc.
+- 👀 I’m interested in various field of IT, DevOpsSec, Computer Networking, IoT, Stegano and Crypto Graphy, various vulnerabilities and exploits, unix etc.
 - 👯 I’m looking to collaborate on different field of IT.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/detjonmataj/)
 - ⚡ Preferred IDEs and Text Editors: VS Code, VS Studio, Vim (neovim), nano, Notepad++, IntelliJ platform-based IDEs
