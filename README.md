@@ -7,6 +7,7 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/detjonmataj/)
 - ⚡ Preferred IDEs and Text Editors: VS Code, VS Studio, Vim (neovim), nano, Notepad++, IntelliJ platform-based IDEs
 
+![](https://komarev.com/ghpvc/?username=detjonmataj&color=blue)
 
 ------
 
