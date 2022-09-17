@@ -13,32 +13,6 @@
 
 ### Main OS
 
-```nim
-        ,.=:!!t3Z3z.,                  
-       :tt:::tt333EE3                   
-       Et:::ztt33EEEL @Ee.,      ..,    Detjon@Detjon
-      ;tt:::tt333EE7 ;EEEEEEttttt33#    -------------
-     :Et:::zt333EEQ. $EEEEEttttt33QL    OS: Windows 11 Pro x86_64
-     it::::tt333EEF @EEEEEEttttt33F     Terminal: Windows Terminal
-    ;3=*^```"*4EEV :EEEEEEttttt33@.     Kernel: 10.0.22000
-    ,.=::::!t=., ` @EEEEEEtttz33QF      Uptime: 24/7
-   ;::::::::zt33)   "4EEEtttji3P*       Packages: 2 (scoop), 215 (winget)
-  :t::::::::tt33.:Z3z..  `` ,..g.       
-  i::::::::zt33F AEEEtttt::::ztF        Shell: bash 4.4.23
- ;:::::::::t33V ;EEEttttt::::t3         Resolution: 1920x1080
- E::::::::zt33L @EEEtttt::::z3F         DE: Aero
-{3=*^```"*4E3) ;EEEtttt:::::tZ`         WM: Explorer
-             ` :EEEEtttt::::z7          WM Theme: Custom
-                 "VEzjt:;;z>*`          Terminal Font: Cascadia Code PL 15
-                                        
-                                       
-                                       
-                          
-```
-
-
-#### Secondary OS
-
 
 ```bash
 ..............                                     
@@ -62,6 +36,31 @@
                                             c
                                             .'
                                              .
+```
+
+#### Secondary OS
+
+```nim
+        ,.=:!!t3Z3z.,                  
+       :tt:::tt333EE3                   
+       Et:::ztt33EEEL @Ee.,      ..,    Detjon@Detjon
+      ;tt:::tt333EE7 ;EEEEEEttttt33#    -------------
+     :Et:::zt333EEQ. $EEEEEttttt33QL    OS: Windows 11 Pro x86_64
+     it::::tt333EEF @EEEEEEttttt33F     Terminal: Windows Terminal
+    ;3=*^```"*4EEV :EEEEEEttttt33@.     Kernel: 10.0.22000
+    ,.=::::!t=., ` @EEEEEEtttz33QF      Uptime: 24/7
+   ;::::::::zt33)   "4EEEtttji3P*       Packages: 2 (scoop), 215 (winget)
+  :t::::::::tt33.:Z3z..  `` ,..g.       
+  i::::::::zt33F AEEEtttt::::ztF        Shell: bash 4.4.23
+ ;:::::::::t33V ;EEEttttt::::t3         Resolution: 1920x1080
+ E::::::::zt33L @EEEtttt::::z3F         DE: Aero
+{3=*^```"*4E3) ;EEEtttt:::::tZ`         WM: Explorer
+             ` :EEEEtttt::::z7          WM Theme: Custom
+                 "VEzjt:;;z>*`          Terminal Font: Cascadia Code PL 15
+                                        
+                                       
+                                       
+                          
 ```
 
 ---
