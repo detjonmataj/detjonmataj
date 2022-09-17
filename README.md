@@ -15,27 +15,25 @@
 
 
 ```bash
-..............                                     
-            ..,;:ccc,.                             
-          ......''';lxO.                                                      
-.....''''..........,:ld;                           detjon@kali
-           .';;;:::;,,.x,                          ----------- 
-      ..'''.            0Xxoc:,.  ...              OS: Kali GNU/Linux Rolling x86_64
-  ....                ,ONkc;,;cokOdc',.            Kernel: 5.14.0-kali4-amd64
- .                   OMo           ':ddo.          Uptime: 24/7
-                    dMc               :OO;         Packages: 3452 (dpkg), 7 (snap)
-                    0M.                 .:o.       Shell: zsh 5.8
-                    ;Wd                            Resolution: 1920x950
-                     ;XO,                          DE: Xfce 4.16
-                       ,d0Odlc;,..                 WM: Xfwm4
-                           ..',;:cdOOd::,.         WM Theme: Kali-Dark
-                                    .:d;.':;.      Theme: Kali-Dark [GTK2/3]
-                                       'd,  .'     Icons: Flat-Remix-Blue-Dark [GTK2/3]
-                                         ;l   ..   Terminal: qterminal
-                                          .o       Terminal Font: FiraCode 10
-                                            c
-                                            .'
-                                             .
+..............                                     detjon@kali
+            ..,;:ccc,.                             -----------
+          ......''';lxO.                           OS: Kali GNU/Linux Rolling x86_64
+.....''''..........,:ld;                           Host: ENIAC
+           .';;;:::;,,.x,                          Kernel: 5.18.0-kali7-amd64
+      ..'''.            0Xxoc:,.  ...              Uptime: 24/7
+  ....                ,ONkc;,;cokOdc',.            Packages: 3042 (dpkg)
+ .                   OMo           ':ddo.          Shell: zsh 5.9
+                    dMc               :OO;         Resolution: 1920x1080
+                    0M.                 .:o.       DE: Xfce 4.16
+                    ;Wd                            WM: Xfwm4
+                     ;XO,                          WM Theme: Kali-Dark
+                       ,d0Odlc;,..                 Theme: Kali-Dark [GTK2/3]
+                           ..',;:cdOOd::,.         Icons: Flat-Remix-Blue-Dark [GTK2/3]
+                                    .:d;.':;.      Terminal: qterminal
+                                       'd,  .'     Terminal Font: FiraCode 10
+                                         ;l   ..   CPU: ENIAC
+                                          .o       GPU: None
+                                            c      Memory: Unlimited
 ```
 
 #### Secondary OS
