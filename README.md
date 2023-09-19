@@ -1,7 +1,5 @@
 # Hi there 👋
 - 👋 Hi, I’m Detjon
-- 💻 I'm currently studying Computer Engineering (BEng) at Epoka University
-- 🌱 I’m currently learning DevOps Methodology, Cloud Service Models, Bash Scripting, [Privilege Escalation Techniques](https://read.amazon.com/kp/embed?asin=B09CQ664SX), [Practical Linux Forensics: A Guide for Digital Investigators](https://www.amazon.com/Practical-Linux-Forensics-Digital-Investigators-ebook-dp-B096Z4CRC8/dp/B096Z4CRC8/ref=mt_other?_encoding=UTF8&me=&qid=&asin=B096Z4CRC8&revisionId=fa4c1dcf&format=1&depth=1), [Hacking APIs: Breaking Web Application Programming Interfaces](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443) etc
 - 👀 I’m interested in various vulnerabilities and exploits, Unix, Linux, C and various field of IT, DevSecOps, Computer Networking, IoT, Stegano and Crypto Graphy etc.
 - 👯 I’m looking to collaborate on different field of IT and open-source.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/detjonmataj/)
