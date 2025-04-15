@@ -1,6 +1,6 @@
 # Hi there 👋
 - 👋 Hi, I’m Detjon
-- 👀 I’m interested in various vulnerabilities and exploits, Linux, C, DevSecOps, Computer Networking, IoT, Steganography, Cryptography etc.
+- 👀 I’m interested in various vulnerabilities and exploits, Linux, C, DevSecOps, Computer Networking, IoT, Steganography, Cryptography, Malware Analysis etc.
 - 👯 I’m looking to collaborate on different field of IT and open-source.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/detjonmataj/)
 - ⚡ Preferred IDEs and Text Editors: VS Code, Vim (neovim), IntelliJ platform-based IDEs
