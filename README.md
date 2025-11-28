@@ -15,6 +15,14 @@
 ### Contact 
 [![](https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg)](https://www.linkedin.com/in/detjonmataj/)
 ---
+
+### Credits
+**Profile Picture**: The image used for my profile picture is a **cropped portion** of the cover of *Linux Basics for Hackers: Getting Started with Networking, Scripting, and Security in Kali* by [OccupyTheWeb](https://hackers-arise.com/).  
+Book link: https://www.amazon.com/dp/1593278551  
+
+All rights to the original image and book cover belong to the author, illustrator, and publisher.
+
+
 <!--
 **detjonmataj/detjonmataj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
